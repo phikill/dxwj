@@ -1,1 +1,0 @@
-javadoc -d documentation\javadoc -windowtitle "Java-Direct3D Wrapper Documentation" -link http://java.sun.com/j2se/1.5.0/docs/api/ src/Java/jdw/graphics/*.java src/Java/jdw/util/*.java src/Java/jdw/demo/*.java
