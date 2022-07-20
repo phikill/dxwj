@@ -1,10 +1,10 @@
 +---------------------------------------------------------+
-|                                                         |
-|       dxwj                                              |
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+|⠀⠀⠀⠀⠀⠀dxwj⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |       DirectX Wrapper Java.                             |
 |                                                         |
 |       a continuation of the jdw project                 |
-|       jdw: A Java Wrapper Library for Direct3D          |
+|⠀⠀⠀⠀⠀⠀jdw: A Java Wrapper Library for Direct3D          |
 +---------------------------------------------------------+
 README
 Last modified 20 July 2022.
