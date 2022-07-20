@@ -1,20 +1,20 @@
 +---------------------------------------------------------+
 |                                                         |
-|       jdw                                               |
-|       A Java-Direct3D wrapper.                          |
+|       dxwj                                              |
+|       DirectX Wrapper Java.                             |
 |                                                         |
-|       Matthew Ross.                                     |
-|       E-mail: mattross06@users.sourceforge.net          |
+|       a continuation of the jdw project                 |
+|       jdw: A Java Wrapper Library for Direct3D          |
 +---------------------------------------------------------+
 README
-Last modified 6 August 2006.
+Last modified 20 July 2022.
 
 
 About
 -----
-"jdw" is a Java wrapper for Direct3D. It is designed to be
-easy to use, with some of the more advanced Direct3D features
-abstracted away.
+this is a continuation of the "jdw" project It is designed to be
+easy to use, with some of the most advanced Direct3D features
+abstracted.
 
 Features
 --------
