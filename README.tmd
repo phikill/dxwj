@@ -36,8 +36,8 @@ To compile and run Java programs that use the framework:
    http://www.microsoft.com/windows/Directx/default.mspx
 
 To compile java-direct3D sources:
-* Microsoft DirectX 9 SDK. DirectX End-User Runtimes (June 2010)
-   http://www.microsoft.com/downloads/details.aspx?FamilyId=1FD20DF1-DEC6-47D0-8BEF-10E266DFDAB8&displaylang=en
+* Microsoft DirectX SDK (June 2010).
+   https://www.microsoft.com/en-us/download/details.aspx?id=8109
 * Microsoft Visual C++ compiler (7.1 or newer).
 * Microsoft Platform SDK.
    http://msdn.microsoft.com/visualc/downloads/msproducts/default.aspx
