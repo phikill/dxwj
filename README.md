@@ -85,10 +85,10 @@ run_tutorialXXX.bat:
 
 Folder structure
 ----------------
-+bin\	        : Native libraries (DLLs)
-+classes\       : Java classes
-+documentation\ : Javadoc documentation
-+src\	        : Java and C++ source code
-
-
-EOF
++bin\	        : Native libraries (DLLs)  
++classes\       : Java classes  
++documentation\ : Javadoc documentation  
++src\	        : Java and C++ source code  
+  
+  
+EOF  
