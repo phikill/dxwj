@@ -49,23 +49,23 @@ To compile java-direct3D sources:
 How to build
 ------------
 
-Use the batch files:  
+Use the batch files  
+___
+compile_win32.bat :   
+  
+Compiles the Direct3D Java class library followed by the supporting 32-bit Windows binaries.  
 
-compile_win32.bat:   
+Modify the variables DIR_JAVA and DIR_DX to refer to your JDK  
+	and DirectX installation respectively (inside the batch file).  
+___	
+compile_win64.bat :  
   
-	Compiles the Direct3D Java class library followed by 
-	the supporting 32-bit Windows binaries. Modify the
-        variables DIR_JAVA and DIR_DX to refer to your JDK
-	and DirectX installation respectively (inside the
-	batch file).  
-compile_win64.bat:  
-  
-	Compiles the Direct3D Java class library followed by 
-	the supporting 64-bit Windows binaries. Modify the
-        variables DIR_JAVA and DIR_DX to refer to your JDK
-	and DirectX installation respectively (inside the
-	batch file).  
-compile_java_only.bat:   
+Compiles the Direct3D Java class library followed by the supporting 64-bit Windows binaries.  
+
+Modify the variables DIR_JAVA and DIR_DX to refer to your JDK
+	and DirectX installation respectively (inside the batch file).  
+___
+compile_java_only.bat :   
   class library only.
 
 Each of the above three batch files create the jdw.jar file
