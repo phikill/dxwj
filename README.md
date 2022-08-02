@@ -10,7 +10,7 @@
 
 README
 -----
-Last modified | August / 2 / 2022 |
+Last modified | August  2  2022 
 
 
 About
