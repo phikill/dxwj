@@ -68,27 +68,27 @@ ___
 compile_java_only.bat :   
   class library only.
 
-Each of the above three batch files create the jdw.jar file
+Each of the above three batch files create the COMPILED\java\dxwj.jar file
 after compilation.  
 
 Other batch files
 -----------------
 
 clean.bat:  
-	Deletes compiled DLLs (bin folder), Java classes (classes folder),
-	and jdw.jar.
+	Deletes compiled DLLs (COMPILED/native folder), Java classes (classes folder),and dxwj.jar.  
+___	
 make_javadoc.bat:  
-	Creates Javadoc documentation.
+	Creates Javadoc documentation.  
+___	
 run_tutorialXXX.bat:  
-	Runs the tutorial program number XXX.
+	Runs the tutorial program number XXX.  
 
 
 Folder structure
 ----------------
-+bin\	        : Native libraries (DLLs)  
-+classes\       : Java classes  
-+documentation\ : Javadoc documentation  
-+src\	        : Java and C++ source code  
++COMPILED\java		: Java classes
++COMPILED\native\ 	: Native libraries (DLLs)  
++documentation\ 	: Javadoc documentation  
++src\	        	: Java and C++ source code  
   
-  
-EOF  
++----------------------------------------------------------------------------------------------------------------+
