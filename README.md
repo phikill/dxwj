@@ -77,15 +77,15 @@ Other batch files
 
 clean.bat:  
 
-	Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
+Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
 make_javadoc.bat:  
 
-	Creates Javadoc documentation.  
+Creates Javadoc documentation.  
 ___	
 run_tutorialXXX.bat:  
 
-	Runs the tutorial program number XXX.  
+Runs the tutorial program number XXX.  
 
 
 Folder structure
