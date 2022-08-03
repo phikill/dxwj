@@ -66,7 +66,8 @@ Modify the variables DIR_JAVA and DIR_DX to refer to your JDK
 	and DirectX installation respectively (inside the batch file).  
 ___
 compile_java_only.bat :   
-  class library only.
+
+  java class library only.
 
 Each of the above three batch files create the (COMPILED\java\dxwj.jar) file
 after compilation.  
@@ -75,12 +76,15 @@ Other batch files
 -----------------
 
 clean.bat:  
+
 	Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
 make_javadoc.bat:  
+
 	Creates Javadoc documentation.  
 ___	
 run_tutorialXXX.bat:  
+
 	Runs the tutorial program number XXX.  
 
 
