@@ -75,7 +75,7 @@ Other batch files
 -----------------
 
 clean.bat:  
-	Deletes compiled DLLs (COMPILED/native folder), Java classes (classes folder),and dxwj.jar.  
+	Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
 make_javadoc.bat:  
 	Creates Javadoc documentation.  
