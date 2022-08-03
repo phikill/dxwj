@@ -68,7 +68,7 @@ ___
 compile_java_only.bat :   
   class library only.
 
-Each of the above three batch files create the COMPILED\java\dxwj.jar file
+Each of the above three batch files create the (COMPILED\java\dxwj.jar) file
 after compilation.  
 
 Other batch files
