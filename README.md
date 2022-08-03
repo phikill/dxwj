@@ -62,7 +62,7 @@ compile_win64.bat :
   
 Compiles the Direct3D Java class library followed by the supporting 64-bit Windows binaries.  
 
-Modify the variables DIR_JAVA and DIR_DX to refer to your JDK
+Modify the variables DIR_JAVA and DIR_DX to refer to your JDK  
 	and DirectX installation respectively (inside the batch file).  
 ___
 compile_java_only.bat :   
