@@ -36,7 +36,7 @@ Requirements
 
 To compile and run Java programs that use the framework:  
 * Microsoft DirectX End-user runtime.  
-   https://www.microsoft.com/en-us/download/details.aspx?id=35  
+   https://www.microsoft.com/en-us/download/details.aspx?id=8109  
 
 -To compile java-direct3D sources:  
 * Microsoft DirectX SDK (June 2010).  
