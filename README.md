@@ -82,8 +82,8 @@ ___
 Folder structure
 ----------------
 ```COMPILED```  
-⠀⠀⠀⠀⠀⠀⠀⠀L```/java``` Java Compiled Program  
-⠀⠀⠀⠀⠀⠀⠀⠀L```/native``` Native Compiled (DLLs)  
+⠀⠀⠀⠀⠀⠀⠀⠀L```/java```  | Java Compiled Program  
+⠀⠀⠀⠀⠀⠀⠀⠀L```/native``` | Native Compiled (DLLs)  
 ___
 ```src```  
 ⠀⠀⠀L```/java```  | Java Source Code  
