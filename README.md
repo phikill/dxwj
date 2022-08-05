@@ -73,21 +73,11 @@ compile_java_only.bat :
 
 Each of the above three batch files create the (COMPILED\java\dxwj.jar) file
 after compilation.  
-
-Other batch files
------------------
-
+___
 clean.bat:  
 
 Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
-make_javadoc.bat:  
-
-Creates Javadoc documentation.  
-___	
-run_tutorialXXX.bat:  
-
-Runs the tutorial program number XXX.  
 
 
 Folder structure
