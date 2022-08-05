@@ -70,7 +70,7 @@ ___
 
   java class library only.
 
-Each of the above three batch files create the (COMPILED\java\dxwj.jar) file
+Each of the above three batch files create the (dxwj.jar) file in COMPILED/java folder
 after compilation.  
 ___
 >```clean.bat``` :  
