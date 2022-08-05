@@ -82,7 +82,7 @@ ___
 
 Folder structure
 ----------------
-+COMPILED\java		: Java classes
++COMPILED\java		: Java classes  
 +COMPILED\native\ 	: Native libraries (DLLs)  
 +documentation\ 	: Javadoc documentation  
 +src\	        	: Java and C++ source code  
