@@ -25,7 +25,7 @@ Features
 * Rendering 3D scenes within a java.awt.Canvas  
 * Bases dds Textures  
 * included .fx reader  
--  more hlsl problems :(
+-  more hlsl problems :( |
 
 
 Requirements
