@@ -23,8 +23,9 @@ This project still uses DirectX 9.0
 Features
 --------
 * Rendering 3D scenes within a java.awt.Canvas  
-* Applying lighting and textures  
-* Loading meshes from .X files  
+* Bases dds Textures  
+* included .fx header  
+-  more hlsl problems :(
 
 
 Requirements
