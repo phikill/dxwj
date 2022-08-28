@@ -18,7 +18,6 @@ this is a continuation of the "jdw" project It is designed to be
 easy to use, with some of the most advanced Direct3D features
 abstracted.
 
-This project still uses DirectX 9.0
 
 Features
 --------
