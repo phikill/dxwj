@@ -30,22 +30,18 @@ abstracted.
 Features
 --------
 * Rendering 3D scenes within a java.awt.Canvas  
-* Bases dds Textures  
-* included .fx reader  
--  more hlsl problems :( |
+-  problems loading Directx 12 sdk
 
 
 Requirements
 ------------
 
-* Java SE (JDK).  
+* Java SE (JDK).  (sdk 8 +)  
    https://www.oracle.com/java/technologies/downloads/  
 
 >***To compile and run Java programs that use the framework*** :  
-* Microsoft DirectX End-user runtime.  
-   https://www.microsoft.com/en-us/download/details.aspx?id=8109  
 
->***To compile java-direct3D sources*** :  
+>***To compile javah-direct3D sources*** :  
 * Microsoft DirectX SDK (June 2010).  
    https://www.microsoft.com/en-us/download/details.aspx?id=8109  
    
