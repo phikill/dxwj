@@ -30,7 +30,7 @@ abstracted.
 Features
 --------
 * Rendering 3D scenes within a java.awt.Canvas  
--  problems loading Directx 12 sdk
+-  problems loading Directx 12 in Windows.10.SDK
 
 
 Requirements
