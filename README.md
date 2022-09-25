@@ -17,7 +17,7 @@ testing the compilers
 
 cl  
 CLANG  
-OpenWatcom  |local build|
+OpenWatcom  | local build ! |  
 GCC  
 
 About
