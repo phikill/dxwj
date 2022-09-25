@@ -15,7 +15,7 @@ tests
 ----
 testing the compilers  
 
-cl  
+Visual Studio_cl  
 CLANG  
 OpenWatcom  | local build ! |  
 GCC  
