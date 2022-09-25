@@ -15,9 +15,10 @@ tests
 ----
 testing the compilers  
 
+cl  
 CLANG  
+OpenWatcom  |local build|
 GCC  
-OpenWatcom  
 
 About
 -----
