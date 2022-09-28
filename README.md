@@ -56,28 +56,28 @@ How to build
 
 Use the batch files  
 ___
->```compile_win32.bat``` :   
+```compile_win32.bat``` :   
   
 Compiles the Direct3D Java class library followed by the supporting 32-bit Windows binaries.  
 
 Modify the variables DIR_JAVA and DIR_DX to refer to your JDK  
 	and DirectX installation respectively (inside the batch file).  
 ___	
->```compile_win64.bat``` :  
+```compile_win64.bat``` :  
   
 Compiles the Direct3D Java class library followed by the supporting 64-bit Windows binaries.  
 
 Modify the variables DIR_JAVA and DIR_DX to refer to your JDK  
 	and DirectX installation respectively (inside the batch file).  
 ___
->```compile_java_only.bat``` :   
+```compile_java_only.bat``` :   
 
   java class library only.
 
 Each of the above three batch files create the (dxwj.jar) file in COMPILED/java folder
 after compilation.  
 ___
->```clean.bat``` :  
+```clean.bat``` :  
 
 Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
@@ -85,12 +85,12 @@ ___
 
 Folder structure
 ----------------
-```COMPILED```  
+>```COMPILED```  
 ⠀⠀⠀⠀⠀⠀⠀⠀L```/java```  | Java Compiled Program  
 ⠀⠀⠀⠀⠀⠀⠀⠀L```/native``` | Native Compiled (DLLs)  
 ___
-```src```  
-⠀⠀⠀L```/java```  | Java Source Code  
-⠀⠀⠀L```/native``` | C/C++ Source Code  
+>```src```  
+⠀⠀⠀L>```/java```  | Java Source Code  
+⠀⠀⠀L>```/native``` | C/C++ Source Code  
   
 ___c----------------------------------------------------------------------------------------------------------------ↄ___
