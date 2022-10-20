@@ -85,12 +85,12 @@ ___
 
 Folder structure
 ----------------
->```COMPILED```  
-⠀⠀⠀⠀⠀⠀⠀⠀L```/java```  | Java Compiled Program  
-⠀⠀⠀⠀⠀⠀⠀⠀L```/native``` | Native Compiled (DLLs)  
+>```nkgprosperit```  
+⠀⠀⠀⠀⠀⠀⠀⠀L```/incluse```  |  include files needed by the engine   
+⠀⠀⠀⠀⠀⠀⠀⠀L```/src``` | engine source  
 ___
->```src```  
-⠀⠀⠀L>```/java```  | Java Source Code  
-⠀⠀⠀L>```/native``` | C/C++ Source Code  
+ Web Help Pages  
+>```whpages```  
+⠀⠀⠀L>```/_```  | markdown and HTML web pages   
   
 ___c----------------------------------------------------------------------------------------------------------------ↄ___
