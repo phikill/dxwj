@@ -82,15 +82,15 @@ ___
 Deletes the COMPILED folder and all contents that is in it including the compiled java files and compiled C++ files.  
 ___	
 
-
 Folder structure
 ----------------
->```nkgprosperit```  
-⠀⠀⠀⠀⠀⠀⠀⠀L```/incluse```  |  include files needed by the engine   
-⠀⠀⠀⠀⠀⠀⠀⠀L```/src``` | engine source  
+
+>```COMPILED```  
+⠀⠀⠀⠀⠀⠀⠀⠀L```/java```  | Java Compiled Program  
+⠀⠀⠀⠀⠀⠀⠀⠀L```/native``` | Native Compiled (DLLs)  
 ___
- Web Help Pages  
->```whpages```  
-⠀⠀⠀L>```/_```  | markdown and HTML web pages   
+>```src```  
+⠀⠀⠀L>```/java```  | Java Source Code  
+⠀⠀⠀L>```/native``` | C/C++ Source Code  
   
 ___c----------------------------------------------------------------------------------------------------------------ↄ___
