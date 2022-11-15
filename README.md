@@ -17,8 +17,7 @@ testing the compilers
 
 Visual Studio_cl  
 CLANG  
-OpenWatcom  | local build ! |  
-GCC  
+Watcom v2   
 
 About
 -----
